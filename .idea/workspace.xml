@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d1c74b8-055f-42e3-9f87-c23bf249b74b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/bootstrap/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/service/GeminiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/service/model/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/service/model/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/service/model/GeminiRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/service/model/GeminiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/service/model/Part.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/service/model/PromptFeedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/service/model/SafetyRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/catmintt/geminiclient/web/GeminiController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../application/apache-maven-3.9.0/repository" />
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../application/apache-maven-3.9.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ZfUYTKhSoq9MGQAZCsJcO4Muwk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GeminiClientApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kangfuzeng/Documents/workspace/gemini-client",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org.catmintt.geminijava" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="gemini-java-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="gemini-java-client" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-8336523bb0d9-9793205e" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-55c9c8bc" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1c74b8-055f-42e3-9f87-c23bf249b74b" name="Changes" comment="" />
+      <created>1702812675240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702812675240</updated>
+    </task>
+    <servers />
+  </component>
+</project>

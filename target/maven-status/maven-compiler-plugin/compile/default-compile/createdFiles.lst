@@ -1,0 +1,11 @@
+org/catmintt/geminiclient/web/GeminiController.class
+org/catmintt/geminiclient/service/model/GeminiResponse.class
+org/catmintt/geminiclient/service/model/SafetyRating.class
+org/catmintt/geminiclient/service/model/GeminiRequest.class
+org/catmintt/geminiclient/service/model/Content.class
+org/catmintt/geminiclient/service/GeminiService.class
+org/catmintt/geminiclient/service/model/PromptFeedback.class
+org/catmintt/geminiclient/bootstrap/GeminiClientApplication.class
+org/catmintt/geminiclient/bootstrap/WebClientConfig.class
+org/catmintt/geminiclient/service/model/Part.class
+org/catmintt/geminiclient/service/model/Candidate.class

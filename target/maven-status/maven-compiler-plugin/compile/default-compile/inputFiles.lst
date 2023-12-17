@@ -1,0 +1,11 @@
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/service/model/GeminiRequest.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/service/model/GeminiResponse.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/web/GeminiController.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/service/GeminiService.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/service/model/Content.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/service/model/Candidate.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/service/model/PromptFeedback.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/bootstrap/WebClientConfig.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/service/model/Part.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/bootstrap/GeminiClientApplication.java
+/Users/kangfuzeng/Documents/workspace/gemini-client/src/main/java/org/catmintt/geminiclient/service/model/SafetyRating.java
